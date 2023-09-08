@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/xgJ6dRD/11.jpg)
+![MasterHead](https://i.ibb.co/WK2g1kK/GG.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kio0014&label=Profile%20views&color=0e75b6&style=flat" alt="kio0014" /> </p>
 
 <h3 align="left">Connect with me:</h3>
