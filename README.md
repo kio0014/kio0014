@@ -1,6 +1,9 @@
+![MasterHead](https://i.ibb.co/3C9h8LM/11.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kio0014&label=Profile%20views&color=0e75b6&style=flat" alt="kio0014" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://discordid.netlify.app/?id=973206983610085436" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
+
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-thumbs-up-successful-hacking-wsbd2ztqmhoo3309.webp">
 <p align="left">
 </p>
