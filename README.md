@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://discordid.netlify.app/?id=973206983610085436" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img 
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/hacker-thumbs-up-successful-hacking-wsbd2ztqmhoo3309.webp">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/65/87/c0/6587c02f1ff0b4b8686ffc179fcacc1c.gif">
 <p align="left">
 </p>
 
